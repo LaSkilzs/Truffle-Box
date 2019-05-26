@@ -13,5 +13,10 @@
 1. run ganache ganache-cli
 2. truffle-config.js file place https://truffleframework.com/docs/truffle/reference/configuration [configuration for Client(Ganache)]
 
-3) Execute truffle migrate
-4) Execute truffle
+## Deploy contract to Ganache
+
+3. commandline -- truffle migrate
+
+## Execute Test
+
+4. commandline -- truffle test
